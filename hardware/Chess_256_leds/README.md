@@ -11,7 +11,7 @@ This directory contains the hardware documentation for an alternative board desi
 - High-visibility indication using 4 LEDs per square
 - LED layout driven by **NeoPixel-style LED strips**
 - More flexibility for animations, effects, or directional guidance
-- Hall sensor matrix remains the same as in [Basic Board](../hw_board_basic_64led)
+- Hall sensor matrix remains the same as in [Basic Board](../Chess_v0_1)
 
 ### Supported Protocol Levels
 
